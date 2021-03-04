@@ -71,6 +71,8 @@ p{
     position: relative;
     left: 43%;
     padding-top: 50px;
+    width:15vw;
+    height: auto;
 }
 .prvi-pasus{
   text-align: center;
