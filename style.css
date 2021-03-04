@@ -1,0 +1,114 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+hr{
+  border-top: 5px dotted;
+  border-bottom: 0;
+  border-left: 0;
+  border-right: 0;
+  color:grey;
+  width: 10%;
+
+}
+
+h1{
+    text-align: center;
+    position: relative;
+    top: 30px;
+    display: inline;
+    font-family: 'Rock Salt', cursive;
+    font-size: 4.5rem;
+    color: #66BFBF
+}
+h2{
+  color: #11999E;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: left;
+}
+
+p{
+  margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+    position: relative;
+    top: 30px;
+    display: inherit;
+}
+
+.topcontainter{
+  background-color: #1687a7;
+  text-align: center;
+  position:relative;
+  padding-top: 100px
+}
+.lowestcontainer{
+  background-color: yellow;
+  height: 200px;
+  width: 200px;
+}
+.topcloud{
+  position: absolute;
+    top: 90px;
+    right: 580px;
+
+
+}
+
+.bottomcloud{
+  position: absolute;
+    bottom: 300px;
+    left: 580px;
+}
+.profile-picture{
+    position: relative;
+    left: 800px;
+    padding-top: 50px;
+}
+.prvi-pasus{
+  text-align: center;
+  font-family:  'Oswald', sans-serif;
+  padding-bottom: 20px
+}
+.uvod{
+  font-size: 2.0rem;
+  color:#66BFBF;
+  font-weight:normal;
+  line-height: 2.0;
+}
+.bottom-container{
+  color:#66BFBF;
+  background-color:#025955;
+  padding : 20px;
+}
+.skill-row{
+  width: 50%;
+  margin: 0 0;
+}
+.skill{
+  line-height: 2;
+}
+.dno{
+  margin:10px;
+}
+.btn {
+   text-align: center;
+   position: relative;
+   bottom: 20px;
+   text-decoration: none;
+}
+a:hover{
+  color: #b68973
+}
+
+.footer-link {
+   text-align: center;
+   position:relative;
+   left:60px;
+   bottom:63px;
+   text-decoration: none;
+}
+.poslednja-linija{
+  padding-bottom: 5px;
+}
